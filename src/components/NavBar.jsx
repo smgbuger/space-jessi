@@ -7,7 +7,7 @@ const NavBar = () => {
 
   return (
     <nav className="d-flex justify-content-between align-items-center text-white position-relative">
-      <img src="/src/assets/shared/logo.svg" alt="logo" />
+      <img src="./src/assets/shared/logo.svg" alt="logo" />
       <div className="line"></div>
 
       <ul className="d-flex gap-5 sub-nav">

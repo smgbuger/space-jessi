@@ -59,7 +59,7 @@ const CrewB = () => {
           <div>
             <img
               className="mark-image"
-              src="/src/assets/crew/image-mark-shuttleworth.png"
+              src="./src/assets/crew/image-mark-shuttleworth.png"
               alt=""
             />
           </div>

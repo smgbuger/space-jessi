@@ -14,7 +14,7 @@ const Europa = () => {
         </div>
         <div className="d-flex align-items-center moon-div">
           <div>
-            <img src="/src/assets/destination/image-europa.png" alt="europa" />
+            <img src="./src/assets/destination/image-europa.png" alt="europa" />
           </div>
 
           <div className="moon-text d-flex flex-column gap-3">

@@ -59,7 +59,7 @@ const TechnologyA = () => {
             </div>
             <div>
               <img
-                src="/src/assets/technology/image-launch-vehicle-portrait.jpg"
+                src="./src/assets/technology/image-launch-vehicle-portrait.jpg"
                 alt="pot"
               />
             </div>

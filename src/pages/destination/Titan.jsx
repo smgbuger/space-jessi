@@ -20,7 +20,7 @@ const Titan = () => {
           <div className="moon-text d-flex flex-column gap-3">
             <ul className="d-flex list-unstyled gap-5 nav">
               <Link
-                to="/destination/moon"
+                to="./destination/moon"
                 className={`nav-link ${
                   isLinkActive("/destination/moon") ? "active" : ""
                 }`}

@@ -15,7 +15,7 @@ const Mars = () => {
         </div>
         <div className="d-flex align-items-center moon-div">
           <div>
-            <img src="/src/assets/destination/image-mars.png" alt="mars" />
+            <img src="./src/assets/destination/image-mars.png" alt="mars" />
           </div>
           <div className="moon-text d-flex flex-column gap-3">
             <ul className="d-flex list-unstyled gap-5 nav">

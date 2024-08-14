@@ -58,7 +58,7 @@ const CrewA = () => {
           </div>
           <div>
             <img
-              src="/src/assets/crew/image-douglas-hurley.png"
+              src="./src/assets/crew/image-douglas-hurley.png"
               alt="douglas"
             />
           </div>

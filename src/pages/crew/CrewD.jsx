@@ -58,7 +58,7 @@ const CrewD = () => {
           <div>
             <img
               className="anou-image"
-              src="/src/assets/crew/image-anousheh-ansari.png"
+              src="./src/assets/crew/image-anousheh-ansari.png"
               alt=""
             />
           </div>
